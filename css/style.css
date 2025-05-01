@@ -3,3 +3,10 @@ body{
     font-size: 16px;
     background-color:darkgray;
 }
+
+.error{
+    color: red;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+}
